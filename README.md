@@ -1,6 +1,6 @@
 # ZGP-P or Zajíc's Ground Probe Program
 
-Zajíc’s Ground Probe Program (ZGP-P) is a program of constructing, building, programming, and developing stationary probes consisting of a microcontroller Arduino or other, and other modules and gadgets, which will be measuring, collecting, displaying, and storing of data. The probes will be advancing, improving, and adding interesting features and functions in each following prototypes over time.
+Zajíc’s Ground Probe Program (ZGP-P) is a program of constructing, building, programming, and developing stationary probes consisting of a microcontroller Arduino or other, and other modules and gadgets, which will be measuring, collecting, displaying, and storing of data. The probes will be advancing, improving, and adding interesting features and functions in each following prototypes over time. More in <a href="https://github.com/TomiZ87/ZGP-P/blob/main/ZGP-P%20Documentation.pdf">Documentation</a>
 
 <h2>List of Probes:</h2>
 <ol>

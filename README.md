@@ -16,15 +16,15 @@ The idea of ZGP-P came in 2017 when I encountered Arduino and microcontrollers t
 <h2>Goals</h2>
 The goals of this program are to make the probes:
 <ul>
-  <li>Self-Sustainable</li>
+  <li>Iteratively</li>
+  <li>Self-Sustainable*</li>
   <li>Durable</li>
-  <li>Energetically independent</li>
-  <li>Measuring, Collecting, Storing, and Displaying of some kind of data</li>
-  <li>Improving ZGP probe iteratively</li>
+  <li>Measuring, Collecting, Storing, and Displaying the telemetry</li>
 </ul>
 
+|* Self-Sustainable in a sense that they should be able to function for a predefined time perdiod (given by a energy source or set by @TomiZ87)
+
 <h2>Testing</h2>
-Every probe should be constructed for certain purposes, function, and test them. We will test
-every probe and make analyses to determine, where we can improve, advance, and add new features
-and functions.<br><br>
+Every probe should be constructed for certain purposes, function, and test them. We will test every probe and make analyses to determine, where we can improve, advance, and add new features and functions.<br><br>
+
 <p>by TomiZ87</p>

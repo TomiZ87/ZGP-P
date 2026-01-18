@@ -16,7 +16,7 @@ The idea of ZGP-P came in 2017 when I encountered Arduino and microcontrollers t
 <h2>Goals</h2>
 The goals of this program are to make the probes:
 <ul>
-  <li>Iteratively</li>
+  <li>Iteratively (+ improving on each iteration)</li>
   <li>Self-Sustainable*</li>
   <li>Durable</li>
   <li>Measuring, Collecting, Storing, and Displaying the telemetry</li>
@@ -25,6 +25,11 @@ The goals of this program are to make the probes:
 |* Self-Sustainable in a sense that they should be able to function for a predefined time perdiod (given by a energy source or set by @TomiZ87)
 
 <h2>Testing</h2>
-Every probe should be constructed for certain purposes, function, and test them. We will test every probe and make analyses to determine, where we can improve, advance, and add new features and functions.<br><br>
+Every probe should be constructed for certain purposes, function, and test them. We will test every probe and make analyses to determine, where we can improve, advance, and add new features and functions.
+
+<h2>AI Statement</h2>
+AI/LLMs may be used while debugging the code, polishing the texts (e.g. grammar), or for inspiration (or minor touch-ups of assets), but not for vibe coding - that would not serve the learning purpose of this project.
+
+NOTE: ZGP-1 and ZGP-2 were done before AI.<br><br>
 
 <p>by TomiZ87</p>

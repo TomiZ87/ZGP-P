@@ -1,6 +1,8 @@
 <h1>ZGP-P or Zajic's Ground Probe Program</h1>
 
-Zajic’s Ground Probe Program <b>(ZGP-P)</b> is a program about constructcting, programming, and developing stationary probes or embedded devices iteratively consisting of a microcontroller such as Arduino or Raspberry PI and other components, modules and gadgets. The devices' sensors will be measuring, collecting, processing,storing, and displaying the data in a user-friendly way. Each prototype will improve and/or add new features and have a set goal.
+<center><img src="./ZGP Logo.png" alt="ZGP-P Logo" height="250" width="250"><br><br></center>
+
+Zajic’s Ground Probe Program <b>(ZGP-P)</b> is a program about constructcting, programming, and developing stationary probes or embedded devices iteratively consisting of a microcontroller such as Arduino or Raspberry PI and other components, modules and gadgets. The devices' sensors will be measuring, collecting, processing,storing, and displaying the data in a user-friendly way. Each prototype will improve and/or add new features and have a set goal. 
 
 <h2>List of Probes:</h2>
 <ul>
@@ -30,6 +32,21 @@ The goals of this program are to make the prototypes:
 
 <h2>Testing</h2>
 Every probe should be constructed for certain purposes, function, and test them. We will test every probe and make analyses to determine, where we can improve, advance, and add new features and functions.
+
+<h2>Expected Structure of the Repository</h2>
+
+<pre><code>.
+├─ prototypes/probes
+│   ├── prototype (e.g. ZGP-1)
+│   │   ├── src
+│   │   │   ├── code files
+│   │   │   └── other code related files
+│   │   ├── logo
+│   │   ├── ...
+│   │   └── README.md
+│   └── ...
+├── ...
+└── README.md</code></pre>
 
 <h2>AI Statement</h2>
 AI/LLMs may be used while debugging the code, polishing the texts (e.g. grammar), or for inspiration (or minor touch-ups of assets), but not for vibe coding - that would not serve the learning purpose of this project.

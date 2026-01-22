@@ -6,8 +6,8 @@ Zajic’s Ground Probe Program <b>(ZGP-P)</b> is a program about constructcting,
 
 <h2>List of Probes:</h2>
 <ul>
-  <li> ZGP-01  - <a href="https://github.com/TomiZ87/ZGP-P/tree/main/ZGP-01">Code</a>, <a href="https://www.youtube.com/watch?v=yme8clizDJw">Video</a></li>
-  <li> ZGP-02 "Polaris" - <a href="https://github.com/TomiZ87/ZGP-P/tree/main/ZGP-02%20Polaris">Code</a>, <a href="https://youtu.be/9Nv3k3qNFNU?si=vRNvxJtXrEumooKg">Video</a></li>
+  <li> ZGP-01  - <a href="https://github.com/TomiZ87/ZGP-P/tree/main/probes/ZGP-01">Code</a>, <a href="https://www.youtube.com/watch?v=yme8clizDJw">Video</a></li>
+  <li> ZGP-02 "Polaris" - <a href="https://github.com/TomiZ87/ZGP-P/tree/main/probes/ZGP-02%20Polaris">Code</a>, <a href="https://youtu.be/9Nv3k3qNFNU?si=vRNvxJtXrEumooKg">Video</a></li>
   <li> ZGP-03 TBA (2026)</li>
   <li> ZGP-04 TBA (2026)</li>
 </ul>  

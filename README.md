@@ -1,4 +1,4 @@
-<h1>ZGP-P or Zajic's Ground Probe Program</h1>
+<h1>ZGP-P - Zajic's Ground Probe Program</h1>
 
 <p align="center" width="100%">
   <img src="./ZGP-logo.png" alt="ZGP-P Logo" height="250" width="250"><br><br>
@@ -8,8 +8,8 @@ Zajic’s Ground Probe Program <b>(ZGP-P)</b> is a program about constructcting,
 
 <h2>List of Probes:</h2>
 <ul>
-  <li> ZGP-01  - <a href="https://github.com/TomiZ87/ZGP-P/tree/main/probes/ZGP-01">Documentation & Code</a>, <a href="https://www.youtube.com/watch?v=yme8clizDJw">Video</a></li>
-  <li> ZGP-02 "Polaris" - <a href="https://github.com/TomiZ87/ZGP-P/tree/main/probes/ZGP-02%20Polaris">Code</a>, <a href="https://youtu.be/9Nv3k3qNFNU?si=vRNvxJtXrEumooKg">Video</a></li>
+  <li> ZGP-01  - <a href="./probes/ZGP-01/README.md">Documentation & Code</a>, <a href="https://www.youtube.com/watch?v=yme8clizDJw">Video</a></li>
+  <li> ZGP-02 "Polaris" - <a href="./probes/ZGP-02%20Polaris">Documentation & Code</a>, <a href="https://youtu.be/9Nv3k3qNFNU?si=vRNvxJtXrEumooKg">Video</a></li>
   <li> ZGP-03 TBA (2026)</li>
   <li> ZGP-04 TBA (2026)</li>
 </ul>  

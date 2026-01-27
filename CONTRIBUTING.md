@@ -1,4 +1,4 @@
-# Contributing to past-exams
+# Contributing to ZGP-P
 
 Thank you for your interest in contributing! This page is more of a help to the current maintainer(s) (@TomiZ87) to follow certain conventions, but could help if the group of maintainers was to expand.
 

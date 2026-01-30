@@ -1,11 +1,11 @@
 <h1>ZGP-1</h1>
 <p>
-<b>Name:</b> ZGP-1 (No alias or nickname)<br>
-<b>Developed in:</b> 2020<br>
-<b>Status</b>: Finished<br><br>
-<b>Main Component:</b> Arduino Uno Rev3 SMD<br>
-<b>Power Source:</b> USB (external/host-powered)<br>
-<b>Measuring:</b> Temperature<br>
+<b>Name: </b>ZGP-1 (No alias or nickname)<br>
+<b>Developed in: </b>2020<br>
+<b>Status: </b>Finished<br><br>
+<b>Main Component: </b>Arduino Uno Rev3 SMD<br>
+<b>Power Source:</b>USB (external/host-powered)<br>
+<b>Measuring: </b>Temperature<br>
 </p>
 
 ZGP-1 is a proof-of-concept probe prototype that measures temperature and displays it on an LCD together with time since powering up and allows the user to adjust the backlight and text opacity levels. As the first probe, it did not have its own energy source - it relied on the computer for power.<br><br>

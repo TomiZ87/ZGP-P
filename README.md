@@ -1,7 +1,7 @@
 <h1>ZGP-P - Zajic's Ground Probe Program</h1>
 
 <p align="center" width="100%">
-  <img src="./ZGP-P-logo.png" alt="ZGP-P Logo" height="250" width="250"><br><br>
+  <img src="./logo.png" alt="ZGP-P Logo" height="250" width="250"><br><br>
 </p>
 
 Zajic’s Ground Probe Program <b>(ZGP-P)</b> is a program about constructcting, programming, and developing stationary probes or embedded devices iteratively consisting of a microcontroller such as Arduino or Raspberry PI and other components, modules and gadgets. The devices' sensors will be measuring, collecting, processing,storing, and displaying the data in a user-friendly way. Each prototype will improve and/or add new features and have a set goal. 
@@ -12,7 +12,7 @@ Zajic’s Ground Probe Program <b>(ZGP-P)</b> is a program about constructcting,
   <li> ZGP-02 "Polaris" - <a href="./probes/ZGP-02%20Polaris">Documentation & Code</a>, <a href="https://youtu.be/9Nv3k3qNFNU?si=vRNvxJtXrEumooKg">Video</a></li>
   <li> ZGP-03 TBA (2026)</li>
   <li> ZGP-04 TBA (2026)</li>
-</ul>  
+</ul>
 
 <h2>History</h2>
 The idea of ZGP-P came in 2017 when I first encountered and used Arduino and temperature sensor together with my father and watching our country’s first mini probe skCUBE going to space. The probe’s success motivated us to learn more about microcontrollers and other components, so we made our first prototype and named it ZGP-01, and then I came with the idea of making videos about it. I made the video in my native language but abandoned the idea because of the school.

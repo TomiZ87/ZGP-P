@@ -1,11 +1,11 @@
-<h1>ZGP-X</h1>
+<h1>ZGP-2</h1>
 <p>
-<b>Name: </b>ZGP-X (+ alias or nickname)<br>
-<b>Developed in: </b>20XX (Year or Date)<br>
-<b>Status: </b>Planned/In development/Testing/Finished<br><br>
-<b>Main Component: </b>...<br>
-<b>Power Source: </b>USB (external/host-powered) / 9V Battery / Solar Panel...<br>
-<b>Measuring: </b>...<br>
+<b>Name: </b>ZGP-2 "Polaris"<br>
+<b>Developed in: </b>2021<br>
+<b>Status: </b>Finished<br><br>
+<b>Main Component: </b>Arduino Uno Rev3 SMD<br>
+<b>Power Source: </b>9v Battery<br>
+<b>Measuring: </b>Temperature<br>
 </p>
 
 Probe summary in a few sentences<br><br>

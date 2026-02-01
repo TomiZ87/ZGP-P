@@ -26,10 +26,10 @@ Zajic’s Ground Probe Program <b>(ZGP-P)</b> is a program about constructcting,
     </tr>
     <tr>
       <td>
-        <img src="./probes/ZGP-02%20Polaris/logo.png" alt="ZGP-02 Logo" height="150" width="150"><br><b>ZGP-02 "Polaris"</b>
+        <img src="./probes/ZGP-02-Polaris/logo.png" alt="ZGP-02 Logo" height="150" width="150"><br><b>ZGP-02 "Polaris"</b>
       </td>
       <td>
-        <a href="./probes/ZGP-02%20Polaris/README.md">Link</a>
+        <a href="./probes/ZGP-02-Polaris/README.md">Link</a>
       </td>
       <td>
         <a href="https://youtu.be/9Nv3k3qNFNU?si=vRNvxJtXrEumooKg">Link</a>

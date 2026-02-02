@@ -8,7 +8,9 @@
 <b>Measuring: </b>Temperature<br>
 </p>
 
-Probe summary in a few sentences<br><br>
+Polaris is a second and last proof-of-concept probe prototype that measures temperature, just like ZGP-1, and displays it on a LCD screen together with the time since powering up. This was a proof-of-concept probe prototype because it is the first prototype to be powered by an external source of energy - a 9V battery.<br><br>
+
+In comparison with ZGP-1, Polaris has a different LCD screen with way less pins and a more accurate temperature sensor - DHT11. The option to adjust the background lighting and text opacity using the rotary encoder has been removed to decrease the energy consumption.<br><br>
 
 <table align="center">
   <thead>
@@ -26,12 +28,13 @@ Probe summary in a few sentences<br><br>
 <h2>Components</h2>
 <ul>
     <li>1x Main Component</li>
-    <li>1x Breadboard</li>
+    <li>1x Small Breadboard</li>
     <li>1x Arduino Uno Rev3 SMD</li>
     <li>1x LCD 16x2</li>
-    <li>DHT11 - Temperature Sensor</li>
+    <li>1x DHT11 - Temperature Sensor</li>
     <li>Cables/Wires</li>
-    <li>9V Battery</li>
+    <li>1x Battery adapter with a switch</li>
+    <li>1x 9V Battery</li>
 </ul>
 
 <h3>Schema</h3>
@@ -49,15 +52,23 @@ Probe summary in a few sentences<br><br>
 <h2>Requirements</h2>
 <h3>Functional Requirements:</h3>
 <ol>
-    <li>...(✅ if fulfilled)</li>
+    <li>The probe shall measure temperature using a sensor. ✅</li>
+    <li>The telemetry shall be displayed on the LCD screen. ✅</li>
+    <li>The LCD shall display the time since powering up in seconds. ✅</li>
+    <li>The user shall be able to turn on and off the prototype. ✅</li>
 </ol>
 
-Other Requirement types may be applicable (NFR, Constraints...)
+<h3>Non-Functional Requirements:</h3>
+<ol>
+    <li>The probe shall display the temperature in degrees celsius. ✅</li>
+    <li>The probe shall have the ability to count up to 2^31-1 seconds. ✅</li>
+</ol>
 
 <h2>Testing</h2>
-...
+This probe was tested for functionalitities and for battery life (how long can the probe be up on a new 9V battery).
 
 <h2>Recommendations for the next probe</h2>
 <ul>
-    <li>...</li>
+    <li>It would be cool to experiment with the e-ink display.</li>
+    <li>The probe could measure more data than temperature.</li>
 </ul>

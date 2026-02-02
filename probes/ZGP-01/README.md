@@ -8,7 +8,7 @@
 <b>Measuring: </b>Temperature<br>
 </p>
 
-ZGP-1 is a proof-of-concept probe prototype that measures temperature and displays it on an LCD together with time since powering up and allows the user to adjust the backlight and text opacity levels. As the first probe, it did not have its own energy source - it relied on the computer for power.<br><br>
+ZGP-1 is a proof-of-concept probe prototype that measures temperature and displays it on an LCD together with time since powering up and allows the user to adjust the backlight and text opacity levels. As the first probe, it does not have its own energy source - it relies on the computer for power.<br><br>
 
 <table align="center">
   <thead>
@@ -31,7 +31,7 @@ ZGP-1 is a proof-of-concept probe prototype that measures temperature and displa
     <li>1x LCD 16x2 Screen</li>
     <li>2x Rotary Encoder - The knob</li>
     <li>Cables/Wires</li>
-    <li>USB-B to USB-A cable</li>
+    <li>1x USB-B to USB-A cable</li>
 </ul>
 Note: The BMP180 supports multiple types of measurements, but in this prototype, only temperature will be used.
 
@@ -61,6 +61,11 @@ RE - Rotary Encoder
     <li>The LCD shall display the time since powering up in seconds. ✅</li>
 </ol>
 Note: Power autonomy and enclosure design are explicitly out of scope for this prototype.
+
+<h3>Non-Functional Requirements:</h3>
+<ol>
+    <li>The probe shall display the temperature in degrees celsius. ✅</li>
+</ol>
 
 <h2>Testing</h2>
 Since no battery was being used, this probe was not tested for self-sustainablity/energy-independence but rather for the functionalities: 

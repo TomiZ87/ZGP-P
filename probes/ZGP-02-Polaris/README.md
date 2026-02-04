@@ -69,9 +69,9 @@ In comparison with ZGP-1, Polaris has a different LCD screen with way less pins 
 <h2>Testing</h2>
 This probe was tested for functionalitities and for battery life (how long can the probe be up on a 9V battery) 3 times. <br><br>
 
-Expected/Targeted battery lifespan: 21 600 seconds (6 hours)
+Expected/Targeted battery lifespan: <b>21 600 seconds (6 hours)</b>
 
-3 Tests:
+<h3>3 Tests:</h3>
 
 <table align="center">
     <tr><th>Test No.</th><th>Time Powered</th></tr>
@@ -80,9 +80,9 @@ Expected/Targeted battery lifespan: 21 600 seconds (6 hours)
     <tr><td>3</td><td>100 010 sec (Powered by a computer)</td></tr>
 </table>
 
-The purpose of test 3 was to test how does the probe react to the long duration of the program running.
+The purpose of Test 3 was to test how does the probe react to the long duration of the program running.
 
-<h2>Recommendations for the next probe</h2>
+<h2>Recommendations for the next probes</h2>
 <ul>
     <li>It would be cool to experiment with the e-ink display.</li>
     <li>Improve the UI on the LCD Screen (distribution of the text on the LCD).</li>

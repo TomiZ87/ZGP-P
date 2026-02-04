@@ -58,7 +58,7 @@ Other Requirement types may be applicable (NFR, Constraints...)
 <h2>Testing</h2>
 ...
 
-<h2>Recommendations for the next probe</h2>
+<h2>Recommendations for the next probes</h2>
 <ul>
     <li>...</li>
 </ul>

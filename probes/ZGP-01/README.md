@@ -78,7 +78,7 @@ Since no battery was being used, this probe was not tested for self-sustainablit
 
 This was a proof-of-concept.
 
-<h2>Recommendations for the next probe</h2>
+<h2>Recommendations for the next probes</h2>
 <ul>
     <li>Use a LCD screen with less pins to reduce the space needed.</li>
     <li>When using a battery, the user should not be able to adjust the backlighting - it will drain battery faster.</li>

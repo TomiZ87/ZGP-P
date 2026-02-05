@@ -16,7 +16,7 @@ In comparison with ZGP-1, Polaris has a different LCD screen with way less pins 
   <thead>
     <tr>
       <th markdown><a href="./src/main.ino">Code</a></th>
-      <th markdown><a href="">Video</a></th>
+      <th markdown><a href="https://youtu.be/9Nv3k3qNFNU?si=vRNvxJtXrEumooKg">Video</a></th>
     </tr>
   </thead>
 </table>

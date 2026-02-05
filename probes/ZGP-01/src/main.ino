@@ -1,5 +1,5 @@
 /*
-  ZGP-1 Source Code
+  ZGP-01 Source Code
   by Tomas & Tibor Zajic (2020)
 */
 

@@ -35,6 +35,13 @@ ZGP-1 is a proof-of-concept probe prototype that measures temperature and displa
 </ul>
 Note: The BMP180 supports multiple types of measurements, but in this prototype, only temperature will be used.
 
+<h3>Libraries/Dependencies</h3>
+<ul>
+    <li>Wire Library</li>
+    <li>LiquidCrystal Library</li>
+    <li>SFE BMP180 Library</li>
+</ul>
+
 <h3>Schema</h3>
 <p align="center" width="100%">
   <img src="./schema.png" alt="ZGP-1 Schema" height="350"><br><br>

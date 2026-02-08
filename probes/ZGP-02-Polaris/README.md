@@ -37,6 +37,13 @@ In comparison with ZGP-1, Polaris has a different LCD screen with way less pins 
     <li>1x 9V Battery</li>
 </ul>
 
+<h3>Libraries/Dependencies</h3>
+<ul>
+    <li>Wire Library</li>
+    <li>LiquidCrystal I2C by Frank de Brabander - v1.1.2</li>
+    <li>DHT Library</li>
+</ul>
+
 <h3>Schema</h3>
 <p align="center" width="100%">
   <img src="./schema.png" alt="ZGP-2 Schema" height="350"><br><br>

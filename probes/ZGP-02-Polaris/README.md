@@ -1,6 +1,7 @@
-<h1>ZGP-2</h1>
+<h1>ZGP-02</h1>
 <p>
-<b>Name: </b>ZGP-2 "Polaris"<br>
+<b>Designation: </b>ZGP-02<br>
+<b>Name (alias): </b>Polaris<br>
 <b>Developed in: </b>2021<br>
 <b>Status: </b>Finished<br><br>
 <b>Main Component: </b>Arduino Uno Rev3 ATMEGA328P<br>

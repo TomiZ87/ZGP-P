@@ -1,6 +1,7 @@
 <h1>ZGP-X</h1>
 <p>
-<b>Name: </b>ZGP-X (+ alias or nickname)<br>
+<b>Designation: </b>ZGP-X<br>
+<b>Name (alias): </b>...<br>
 <b>Developed in: </b>20XX (Year or Date)<br>
 <b>Status: </b>Planned/In development/Testing/Finished<br><br>
 <b>Main Component: </b>...<br>
@@ -31,6 +32,12 @@ Probe summary in a few sentences<br><br>
     <li>1x ...</li>
     <li>Cables/Wires</li>
     <li>USB-B to USB-A cable</li>
+</ul>
+
+<h3>Libraries/Dependencies</h3>
+<ul>
+    <li>...</li>
+    <li>...</li>
 </ul>
 
 <h3>Schema</h3>

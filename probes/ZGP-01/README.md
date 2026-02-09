@@ -1,6 +1,7 @@
 <h1>ZGP-1</h1>
 <p>
-<b>Name: </b>ZGP-1 (No alias or nickname)<br>
+<b>Designation: </b>ZGP-01<br>
+<b>Name (alias): </b>NONE<br>
 <b>Developed in: </b>2020<br>
 <b>Status: </b>Finished<br><br>
 <b>Main Component: </b>Arduino Uno Rev3 SMD<br>

@@ -1,11 +1,12 @@
 <h1>ZGP-X</h1>
 <p>
-<b>Name:</b> ZGP-X (+ alias or nickname)<br>
-<b>Developed in:</b> 20XX (Year or Date)<br>
-<b>Status</b>: Planned/In development/Testing/Finished<br><br>
-<b>Main Component:</b> ...<br>
-<b>Power Source:</b> USB (external/host-powered) / 9V Battery / Solar Panel...<br>
-<b>Measuring:</b> ...<br>
+<b>Designation: </b>ZGP-X<br>
+<b>Name (alias): </b>...<br>
+<b>Developed in: </b>20XX (Year or Date)<br>
+<b>Status: </b>Planned/In development/Testing/Finished<br><br>
+<b>Main Component: </b>...<br>
+<b>Power Source: </b>USB (external/host-powered) / 9V Battery / Solar Panel...<br>
+<b>Measuring: </b>...<br>
 </p>
 
 Probe summary in a few sentences<br><br>
@@ -33,6 +34,12 @@ Probe summary in a few sentences<br><br>
     <li>USB-B to USB-A cable</li>
 </ul>
 
+<h3>Libraries/Dependencies</h3>
+<ul>
+    <li>...</li>
+    <li>...</li>
+</ul>
+
 <h3>Schema</h3>
 <p align="center" width="100%">
   <img src="./schema.png" alt="ZGP-X Schema" height="350"><br><br>
@@ -58,7 +65,7 @@ Other Requirement types may be applicable (NFR, Constraints...)
 <h2>Testing</h2>
 ...
 
-<h2>Recommendations for the next probe</h2>
+<h2>Recommendations for the next probes</h2>
 <ul>
     <li>...</li>
 </ul>

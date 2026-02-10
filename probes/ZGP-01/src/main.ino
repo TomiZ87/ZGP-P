@@ -1,5 +1,5 @@
 /*
-  ZGP-1 Source Code
+  ZGP-01 Source Code
   by Tomas & Tibor Zajic (2020)
 */
 
@@ -24,7 +24,7 @@ void setup() {
   // Set up the LCD's number of columns and rows:
   lcd.begin(16, 2);
 
-  // Print a message to the LCD.- First row
+  // Print a message to the LCD - First row
   lcd.print("ZGP-01");
 }
 

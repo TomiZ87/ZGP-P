@@ -1,14 +1,15 @@
 <h1>ZGP-1</h1>
 <p>
-<b>Name:</b> ZGP-1 (No alias or nickname)<br>
-<b>Developed in:</b> 2020<br>
-<b>Status</b>: Finished<br><br>
-<b>Main Component:</b> Arduino Uno Rev3 SMD<br>
-<b>Power Source:</b> USB (external/host-powered)<br>
-<b>Measuring:</b> Temperature<br>
+<b>Designation: </b>ZGP-01<br>
+<b>Name (alias): </b>NONE<br>
+<b>Developed in: </b>2020<br>
+<b>Status: </b>Finished<br><br>
+<b>Main Component: </b>Arduino Uno Rev3 SMD<br>
+<b>Power Source:</b>USB (external/host-powered)<br>
+<b>Measuring: </b>Temperature<br>
 </p>
 
-ZGP-1 is a proof-of-concept probe prototype that measures temperature and displays it on an LCD together with time since powering up and allows the user to adjust the backlight and text opacity levels. As the first probe, it did not have its own energy source - it relied on the computer for power.<br><br>
+ZGP-1 is a proof-of-concept probe prototype that measures temperature and displays it on an LCD together with time since powering up and allows the user to adjust the backlight and text opacity levels. As the first probe, it does not have its own energy source - it relies on the computer for power.<br><br>
 
 <table align="center">
   <thead>
@@ -31,9 +32,16 @@ ZGP-1 is a proof-of-concept probe prototype that measures temperature and displa
     <li>1x LCD 16x2 Screen</li>
     <li>2x Rotary Encoder - The knob</li>
     <li>Cables/Wires</li>
-    <li>USB-B to USB-A cable</li>
+    <li>1x USB-B to USB-A cable</li>
 </ul>
 Note: The BMP180 supports multiple types of measurements, but in this prototype, only temperature will be used.
+
+<h3>Libraries/Dependencies</h3>
+<ul>
+    <li>Wire Library</li>
+    <li>LiquidCrystal Library</li>
+    <li>SFE BMP180 Library</li>
+</ul>
 
 <h3>Schema</h3>
 <p align="center" width="100%">
@@ -62,6 +70,11 @@ RE - Rotary Encoder
 </ol>
 Note: Power autonomy and enclosure design are explicitly out of scope for this prototype.
 
+<h3>Non-Functional Requirements:</h3>
+<ol>
+    <li>The probe shall display the temperature in degrees celsius. ✅</li>
+</ol>
+
 <h2>Testing</h2>
 Since no battery was being used, this probe was not tested for self-sustainablity/energy-independence but rather for the functionalities: 
 <ul>
@@ -73,7 +86,7 @@ Since no battery was being used, this probe was not tested for self-sustainablit
 
 This was a proof-of-concept.
 
-<h2>Recommendations for the next probe</h2>
+<h2>Recommendations for the next probes</h2>
 <ul>
     <li>Use a LCD screen with less pins to reduce the space needed.</li>
     <li>When using a battery, the user should not be able to adjust the backlighting - it will drain battery faster.</li>

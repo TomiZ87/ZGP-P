@@ -4,9 +4,9 @@
 <b>Name (alias): </b>Michael<br>
 <b>Developed in: </b>2025-26<br>
 <b>Status: </b>In development<br><br>
-<b>Main Component: </b>...<br>
-<b>Power Source: </b>USB (external/host-powered) / 9V Battery / Solar Panel...<br>
-<b>Measuring: </b>...<br>
+<b>Main Component: </b>Arduino Uno Rev3 ATMEGA328P<br>
+<b>Power Source: </b>9V Battery<br>
+<b>Measuring: </b>Temperature & Humidity<br>
 </p>
 
 Probe summary in a few sentences<br><br>
@@ -26,7 +26,7 @@ Probe summary in a few sentences<br><br>
 
 <h2>Components</h2>
 <ul>
-    <li>1x Main Component</li>
+    <li>1x Arduino Uno Rev3</li>
     <li>1x Breadboard</li>
     <li>1x ...</li>
     <li>1x ...</li>

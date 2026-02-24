@@ -9,7 +9,8 @@
 <b>Measuring: </b>Temperature & Humidity<br>
 </p>
 
-Probe summary in a few sentences<br><br>
+Probe summary in a few sentences
+ZGP-03 is the first probe to imlement the interrupts and state machines to control the probe.<br><br>
 
 <table align="center">
   <thead>
@@ -57,13 +58,23 @@ Probe summary in a few sentences<br><br>
 <h2>Requirements</h2>
 <h3>Functional Requirements:</h3>
 <ol>
-    <li>...(✅ if fulfilled)</li>
+    <li>The probe shall measure temperature using a sensor. </li>
+    <li>The probe shall measure humidity using a sensor. </li>
+    <li>The telemetry shall be displayed on the (LCD/E-INK) screen. </li>
+    <li>The  shall display the time since powering up in seconds. </li>
+    <li>The (LCD/E-INK) shall display the time since powering up in seconds. </li>
+    <li>The user shall be able to turn on and off the prototype. </li>
 </ol>
 
-Other Requirement types may be applicable (NFR, Constraints...)
+<h3>Non-Functional Requirements:</h3>
+<ol>
+    <li>The probe shall display the temperature in degrees celsius. </li>
+    <li>The probe shall display the humidity in %. </li>
+    <li>The probe shall have the ability to count up to 2^31-1 seconds. </li>
+</ol>
 
 <h2>Testing</h2>
-...
+Unit testing & longevity testing
 
 <h2>Recommendations for the next probes</h2>
 <ul>

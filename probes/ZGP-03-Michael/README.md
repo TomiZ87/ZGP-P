@@ -74,7 +74,17 @@ ZGP-03 is the first probe to imlement the interrupts and state machines to contr
 </ol>
 
 <h2>Testing</h2>
-Unit testing & longevity testing
+Devided into 2 parts:
+<ul>
+    <li>Code testing (Unit Testing)</li>
+    <li>Battery life/lifespan testing</li>
+</ul>
+
+<h3>Unit testing</h3>
+
+
+<h3>Battery Testing</h3>
+
 
 <h2>Recommendations for the next probes</h2>
 <ul>

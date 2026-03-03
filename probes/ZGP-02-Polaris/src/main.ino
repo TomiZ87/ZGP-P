@@ -26,6 +26,9 @@ void setup() {
   Serial.println("Waiting for DHT11\n\n");
   delay(1000);
 
+  // Start the DHT
+  dht.begin();
+
   // Set up the LCD's number of columns and rows:
   lcd.begin(16, 2);
 

@@ -9,8 +9,9 @@
 <b>Measuring: </b>Temperature & Humidity<br>
 </p>
 
-Probe summary in a few sentences
-ZGP-03 is the first probe to imlement the interrupts and state machines to control the probe.<br><br>
+Michael is after a long time, the first probe that is not considered a proof-of-concept, as it has more advanced features, such as state machines and is more thoroughly tested - both as a whole system and the probe's code. It measures the temperature and humidity using the same DHT11 sensor and displays them on .... screen. It is also powered externally, using a battery.
+
+ZGP-03 is the first probe to imlement the interrupts and state machines to control the probe. In comparison with ZGP-02, this probe does not differ significantly in terms of hardware, but differ siginificantly software wise.<br><br>
 
 <table align="center">
   <thead>
@@ -61,7 +62,7 @@ ZGP-03 is the first probe to imlement the interrupts and state machines to contr
     <li>The probe shall measure temperature using a sensor. </li>
     <li>The probe shall measure humidity using a sensor. </li>
     <li>The telemetry shall be displayed on the (LCD/E-INK) screen. </li>
-    <li>The  shall display the time since powering up in seconds. </li>
+    <li>The screen shall display the time since powering up in seconds. </li>
     <li>The (LCD/E-INK) shall display the time since powering up in seconds. </li>
     <li>The user shall be able to turn on and off the prototype. </li>
 </ol>
@@ -76,14 +77,17 @@ ZGP-03 is the first probe to imlement the interrupts and state machines to contr
 <h2>Testing</h2>
 Devided into 2 parts:
 <ul>
-    <li>Code testing (Unit Testing)</li>
-    <li>Battery life/lifespan testing</li>
+    <li>Code testing</li>
+    <li>System/Battery life/lifespan testing</li>
 </ul>
 
-<h3>Unit testing</h3>
+<h3>Code testing</h3>
+All parts of the code being run, was tested as they were being implemented, after putting the code together, the code was tested as a whole - all the functionalities and many possible scenarios that we could have come with (tested in TinkerCad).
 
+<h3>System testing</h3>
+After the components' code was tested, it has been uploaded to the ZPG-03 hardware. The System test consists of running the code on hardware and trying to trigger some scenarios - whether the components work and react according to the code + finding bugs.
 
-<h3>Battery Testing</h3>
+After the system has been tested, then the Battery tests follow - using a new battery and figuring out how long will the probe be functional.
 
 
 <h2>Recommendations for the next probes</h2>

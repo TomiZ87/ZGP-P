@@ -92,5 +92,6 @@ After the system has been tested, then the Battery tests follow - using a new ba
 
 <h2>Recommendations for the next probes</h2>
 <ul>
-    <li>...</li>
+    <li>Have modes for the LCD that can save power</li>
+    <li>The screen does not have to update the temperature every second or 2</li>
 </ul>

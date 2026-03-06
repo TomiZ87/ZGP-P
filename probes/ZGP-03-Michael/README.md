@@ -2,7 +2,7 @@
 <p>
 <b>Designation: </b>ZGP-03<br>
 <b>Name (alias): </b>Michael<br>
-<b>Developed in: </b>2025-26<br>
+<b>Developed in: </b>2026<br>
 <b>Status: </b>In development<br><br>
 <b>Main Component: </b>Arduino Uno Rev3 ATMEGA328P<br>
 <b>Power Source: </b>9V Battery<br>
@@ -11,7 +11,9 @@
 
 Michael is after a long time, the first probe that is not considered a proof-of-concept, as it has more advanced features, such as state machines and is more thoroughly tested - both as a whole system and the probe's code. It measures the temperature and humidity using the same DHT11 sensor and displays them on .... screen. It is also powered externally, using a battery.
 
-ZGP-03 is the first probe to imlement the interrupts and state machines to control the probe. In comparison with ZGP-02, this probe does not differ significantly in terms of hardware, but differ siginificantly software wise.<br><br>
+ZGP-03 is the first probe to imlement the interrupts and state machines to control the probe. In comparison with ZGP-02, this probe does not differ significantly in terms of hardware, but differ siginificantly software wise.
+
+The probe is named after a friend who is also interested in embedded systems and Arudinos. <br><br>
 
 <table align="center">
   <thead>
@@ -72,6 +74,7 @@ ZGP-03 is the first probe to imlement the interrupts and state machines to contr
     <li>The probe shall display the temperature in degrees celsius. </li>
     <li>The probe shall display the humidity in %. </li>
     <li>The probe shall have the ability to count up to 2^31-1 seconds. </li>
+    <li>The probe shall measure and update the ... screen every 10 seconds. </li>
 </ol>
 
 <h2>Testing</h2>
@@ -88,7 +91,6 @@ All parts of the code being run, was tested as they were being implemented, afte
 After the components' code was tested, it has been uploaded to the ZPG-03 hardware. The System test consists of running the code on hardware and trying to trigger some scenarios - whether the components work and react according to the code + finding bugs.
 
 After the system has been tested, then the Battery tests follow - using a new battery and figuring out how long will the probe be functional.
-
 
 <h2>Recommendations for the next probes</h2>
 <ul>

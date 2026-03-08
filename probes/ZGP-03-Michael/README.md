@@ -94,6 +94,8 @@ After the system has been tested, then the Battery tests follow - using a new ba
 
 <h2>Recommendations for the next probes</h2>
 <ul>
-    <li>Have modes for the LCD that can save power</li>
+    <li>Have modes for the LCD that can save power (like if a button is pressed, then the screen will litght up for x seconds before powering off again).</li>
     <li>The screen does not have to update the temperature every second or 2</li>
+    <li>Larger batteries or more batteries could be used to prolong the probes cycles.</li>
+    <li>It would be good, if the probes were able to also write the temperature and humidity and other telemetry data into some files, so they could be reviewed later (bitpacking could be used to conserve space).</li>
 </ul>

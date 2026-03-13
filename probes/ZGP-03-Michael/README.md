@@ -33,14 +33,14 @@ The probe is named after a friend who is also interested in embedded systems and
     <li>1x Arduino Uno Rev3</li>
     <li>1x Breadboard</li>
     <li>1x E-INK Screen</li>
-    <li>1x ...</li>
+    <li>1x DHT11 - Temperature & Humidity Sensor - <a href="https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf">Documentation</a></li>
     <li>Cables/Wires</li>
     <li>USB-B to USB-A cable</li>
 </ul>
 
 <h3>Libraries/Dependencies</h3>
 <ul>
-    <li>...</li>
+    <li>DHT Library</li>
     <li>...</li>
 </ul>
 
@@ -52,10 +52,8 @@ The probe is named after a friend who is also interested in embedded systems and
 <h4>Pin Mapping</h4>
 <table align="center">
     <tr><th>Component</th><th>Interface</th></tr>
-    <tr><td>...</td><td>Pin1, Pin2</td></tr>
-    <tr><td>...</td><td>Pin1, Pin2</td></tr>
-    <tr><td>...</td><td>Pin1, Pin2</td></tr>
-    <tr><td>...</td><td>Pin1, Pin2</td></tr>
+    <tr><td>DHT 11</td><td>Pin1, Pin2</td></tr>
+    <tr><td>E-INK</td><td>Pin1, Pin2</td></tr>
 </table>
 
 <h2>Requirements</h2>

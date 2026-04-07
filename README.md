@@ -40,7 +40,7 @@ Zajic’s Ground Probe Program <b>(ZGP-P)</b> is a program about constructcting,
         <img src="./probes/ZGP-03/logo.png" alt="ZGP-03 Logo" height="150" width="150"><br><b>ZGP-03 (TBA)</b>
       </td>
       <td>
-        <!-- <a href="./probes/ZGP-03/README.md">Documentation & Code</a> -->~2026
+        <!-- <a href="./probes/ZGP-03-Michael/README.md">Documentation & Code</a> -->~2026
       </td>
       <td>
         <!-- <a href="">Video</a> -->~2026
